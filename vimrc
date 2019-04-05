@@ -1,0 +1,2 @@
+colo cobalt
+syntax on
